@@ -34,6 +34,7 @@ The architecture allows easy integration with external financial data sources, a
 ---
 
 ## Project Structure
+```text
 volatility-insights/
 │
 ├── src/
@@ -52,5 +53,5 @@ volatility-insights/
 ├── tailwind.config.ts Tailwind configuration
 ├── vite.config.ts Vite configuration
 └── README.md
-
+```
 
